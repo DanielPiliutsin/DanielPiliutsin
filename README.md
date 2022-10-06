@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielPiliu
-- 👀 I’m interested in Space and Tech
+- 👀 I’m interested in Space, Tech, and Business 
 - 🌱 I’m currently learning Python and TI-basics
 - 📫 How to reach me danielwof@icloud.com
 
