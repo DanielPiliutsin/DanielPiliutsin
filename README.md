@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielPiliu
 - 👀 I’m interested in Space, Tech, and Business 
 - 🌱 I’m currently learning TI-basics
-- 📫 How to reach me danielwof@icloud.com
+- 📫 How to reach me dpilutsin@yandex.com
 
 - Quotes:
 - "I give people the motivation I dont have"
