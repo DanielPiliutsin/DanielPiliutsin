@@ -3,7 +3,7 @@
 - 🌱 I’m currently TI-basics
 - 📫 How to reach me danielwof@icloud.com
 
-- Qoutes:
+- Quotes:
 - "I give people the motivation I dont have"
 - "We live in a world made of reactive balls"
 <!---
