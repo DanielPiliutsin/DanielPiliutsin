@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielPiliu
 - 👀 I’m interested in Space, Tech, and Business 
-- 🌱 I’m currently TI-basics
+- 🌱 I’m currently learning TI-basics
 - 📫 How to reach me danielwof@icloud.com
 
 - Quotes:
