@@ -2,7 +2,7 @@
 - 👀 I’m interested in Space, Tech, and Business 
 - 🌱 I’m currently learning TI-basics
 - 📫 How to reach me dpilutsin@yandex.com
-- 🟥 My YT - https://www.youtube.com/channel/UCUQa9aBmWw_nH3vDowSKyyg
+- 🟥 My YT - <a href="https://www.youtube.com/channel/UCUQa9aBmWw_nH3vDowSKyyg" target="_blank">https://www.youtube.com/channel/UCUQa9aBmWw_nH3vDowSKyyg</a>
 - 
 - Quotes:
 - "I give people the motivation I dont have"
