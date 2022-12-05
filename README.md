@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning TI-basics and HTML
 - 📫 How to reach me dpilutsin@yandex.com
 - 👨‍💻 My Websiite - <a href="http://ceea.ga" target="_blank">The Ceeaga Project</a>
-- 🟥 My YoutTube - <a href="https://www.youtube.com/@danielpiliutsin" target="_blank">Daniel pili</a>
+- 🟥 My YouTube - <a href="https://www.youtube.com/@danielpiliutsin" target="_blank">Daniel pili</a>
 - 🟥 My Other YouTube - <a href="https://www.youtube.com/@ONDVRI" target="_blank">ONDVRI</a>
 - 
 - Quotes:
