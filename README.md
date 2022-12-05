@@ -6,7 +6,6 @@
 - 👨‍💻 My Websiite - <a href="http://ceea.ga" target="_blank">The Ceeaga Project</a>
 - 
 - Quotes:
-- "I give people the motivation I dont have"
 - "We live in a world made of reactive balls"
 - "You never know until you try"
 <!---
