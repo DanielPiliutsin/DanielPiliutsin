@@ -4,7 +4,8 @@
 - 📫 How to reach me dpilutsin@yandex.com
 - 👨‍💻 My Websiite - <a href="http://ceea.ga" target="_blank">The Ceeaga Project</a>
 - 🟥 My YouTube - <a href="https://www.youtube.com/@danielpiliutsin" target="_blank">Daniel pili</a>
-- 🟥 My Other YouTube - <a href="https://www.youtube.com/@ONDVRI" target="_blank">ONDVRI</a>
+- 🟥 My Other YouTube - <a href="https://www.youtube.com/@ONDVRI" target="_blank">ONDVRI</a>1
+- 👻 My Snap - https://www.snapchat.com/add/dan.pili
 - 
 - Quotes:
 - "We live in a world made of reactive balls"
