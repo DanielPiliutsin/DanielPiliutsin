@@ -11,7 +11,7 @@
 - "We live in a world made of reactive balls"
 - "You never know until you try"
 - Other Qoutes:
-- Im Stronger, Im Smarter, Im Better, <a href="https://youtu.be/ZyJtD87V5vg"><b>I AM BETTER!</b></a>
+- Im Not Just Like The Rest Of You, Im Stronger, Im Smarter, Im Better, <a href="https://youtu.be/ZyJtD87V5vg"><b>I AM BETTER!</b></a>
 <!---
 DanielPiliu/DanielPiliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
