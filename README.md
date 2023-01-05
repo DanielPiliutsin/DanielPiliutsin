@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DanielPiliu
-- 👀 I’m interested in Space, Tech, Business, and Photography 
+- 👀 I’m interested in Space, Tech, Business
+- 🎣 My Hobbies include: Fishing and Photography 
 - 🌱 I’m currently learning JS and HTML
 - 📫 How to reach me dpilutsin@yandex.com
 - 👨‍💻 My Websiite - <a href="http://ceea.ga" target="_blank">The Ceeaga Project</a>
