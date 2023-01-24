@@ -2,7 +2,7 @@
 - 👀 I’m interested in Space, Tech, Business
 - 🎣 My Hobbies include: Fishing and Photography 
 - 🌱 I’m currently learning JS and HTML
-- 📫 How to reach me dpilutsin@yandex.com
+- 📫 How to reach me <a href="https://discord.gg/hT6jHG78mw">HERE</a>
 - 👨‍💻 My Websiite - <a href="http://ceea.ga" target="_blank">The Ceeaga Project</a>
 - 🟥 My YouTube - <a href="https://www.youtube.com/@danielpiliutsin" target="_blank">Daniel pili</a>
 - 🟥 My Other YouTube - <a href="https://www.youtube.com/@ONDVRI" target="_blank">ONDVRI</a>
