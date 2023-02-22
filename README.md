@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielPiliu
-- 👀 I’m interested in Space, Tech, Business
+- 👀 I’m interested in Space, Tech, entrepreneurship
 - 🎣 My Hobbies include: Fishing and Photography 
 - 🌱 I’m currently learning JS and HTML
 - 📫 How to reach me <a href="https://discord.gg/hT6jHG78mw">HERE</a>
