@@ -2,6 +2,7 @@
 - 👀 I’m interested in Space, Tech, entrepreneurship
 - 🎣 My Hobbies include: Fishing and Photography 
 - 📫 How to reach me <a href="about:blank">HERE</a>
+- ▶ My Youtube Channel - <a href="youtube.com/@danielpiliutsin" target="_blank">@danielpiliutsin</a>
 - 👻 My Snap - <a href="https://www.snapchat.com/add/dan.pili" target="_blank">dan.pili</a>
 - 
 - My Quotes:
