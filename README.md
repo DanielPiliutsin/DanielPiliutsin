@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielPiliu
-- 👀 I’m interested in Space, Tech, entrepreneurship
+- 👀 I’m interested in Space, Tech, Biochem, and entrepreneurship
 - 🎣 My Hobbies include: Fishing and Photography 
 - ▶ My Youtube Channel - <a href="https://youtube.com/@danielpiliutsin" target="_blank">@danielpiliutsin</a>
 - 👻 My Snap - <a href="https://www.snapchat.com/add/dan.pili" target="_blank">dan.pili</a>
