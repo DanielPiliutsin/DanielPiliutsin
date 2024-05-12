@@ -2,7 +2,6 @@
 - 👀 I’m interested in Space, Tech, AI, and entrepreneurship
 - 🎣 My Hobbies include: Fishing and Photography 
 - ▶ My Youtube Channel - <a href="https://youtube.com/@danielpiliutsin" target="_blank">@danielpiliutsin</a>
-- 👻 My Snap - <a href="https://www.snapchat.com/add/dan.pili" target="_blank">dan.pili</a>
 - 
 - My Quotes:
 - "We live in a world made of reactive balls"
