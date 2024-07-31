@@ -1,3 +1,4 @@
+<img href="IMG_0877.jpeg">
 - 👋 Hi, I’m @DanielPiliutsin
 - 👀 I’m interested in Space, Tech, AI, and entrepreneurship
 - 🎣 My Hobbies include: Fishing and Photography 
