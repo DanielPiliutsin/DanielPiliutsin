@@ -7,6 +7,7 @@
 - "We live in a world made of reactive balls"
 - "You never know until you try"
 - Other Qoutes:
+- "Если ты хочешь познать себя, ты должен вспомнить и понять настоящего себя, те кто не может этого сделать... Терпят неудачу."
 
 <!---
 DanielPiliu/DanielPiliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
