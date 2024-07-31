@@ -1,4 +1,4 @@
-<img href="https://raw.githubusercontent.com/DanielPiliutsin/DanielPiliutsin/428c65f1487c686873b246b61f00532a707b0867/IMG_0877.jpeg">
+<img src="https://raw.githubusercontent.com/DanielPiliutsin/DanielPiliutsin/428c65f1487c686873b246b61f00532a707b0867/IMG_0877.jpeg">
 - 👋 Hi, I’m @DanielPiliutsin
 - 👀 I’m interested in Space, Tech, AI, and entrepreneurship
 - 🎣 My Hobbies include: Fishing and Photography 
