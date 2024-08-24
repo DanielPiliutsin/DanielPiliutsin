@@ -7,6 +7,7 @@
 - My Quotes:
 - "We live in a world made of reactive balls"
 - "You never know until you try"
+- "The dumbest people I have met, complain how dumb everyone else are"
 - Other Qoutes:
 - "Если ты хочешь познать себя, ты должен вспомнить и понять настоящего себя, те кто не может этого сделать... Терпят неудачу."
 
