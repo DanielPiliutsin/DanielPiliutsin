@@ -7,7 +7,7 @@
 - My Quotes:
 - "You never know until you try"
 - Other Qoutes:
-- "Если ты хочешь познать себя, ты должен вспомнить и понять настоящего себя, те кто не может этого сделать... Терпят неудачу."
+- "Если ты хочешь познать себя, ты должен вспомнить и понять настоящего себя, те кто не может этого сделать... Терпят неудачу." - Unknown
 
 <!---
 DanielPiliu/DanielPiliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
