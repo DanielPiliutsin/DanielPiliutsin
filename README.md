@@ -6,7 +6,8 @@
 - 
 - My Quotes:
 - "You never know until you try"
--
+- "Life doesnt sleep, you do"
+- 
 - Other Qoutes:
 - <a href="https://open.spotify.com/track/3crszinOKbhMWjDv96iWEA"> Traveling close to the speed of light is a kind of elixir of life, Because time slows down close to the speed of light, Special relatively provides us with thе means of going to the stars</a>
 - "Если ты хочешь познать себя, ты должен вспомнить и понять настоящего себя, те кто не может этого сделать... Терпят неудачу." - Unknown
