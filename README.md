@@ -3,6 +3,7 @@
 - 👀 I’m interested in Space, Tech, AI, and entrepreneurship
 - 🎣 My Hobbies include: Fishing and Photography 
 - ▶ My Youtube Channel - <a href="https://youtube.com/@danielpiliutsin" target="_blank">@danielpiliutsin</a>
+- 💬 Contact Me <a href="https://danielpiliutsin.github.io/contact">Here!</a> 
 - 
 - My Quotes:
 - "You never know until you try"
